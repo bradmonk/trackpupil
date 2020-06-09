@@ -227,6 +227,9 @@ end
 % Is it more reliable to use a stack projection image or the first frame?
 % 
 % 
+% How to convert AU into real-world length measurements?
+%   - determine if person is male or female, then use mean eye size
+%     as reference benchmark
 % 
 % 
 % 
